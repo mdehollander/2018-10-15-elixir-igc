@@ -323,6 +323,7 @@ Your download should begin automatically.
             <br>Once the installer is downloaded, double click on it and it should install.
 </li><li>To use LibreOffice, double click on the icon and it will open.
 </li></ul>
+	
 <li><b>Putty</b></li>
 <br>You will need a terminal program to access the AWS Cloud/HPC cluster.
 <ul>
@@ -332,6 +333,7 @@ page</a>
 </li><li>To use it, double-click on the downloaded file
 </li><li>Follow any installation instructions, if any
 </li></ul>
+
 <li><b>FTP Client (Filezilla)</b></li>
 <br>An FTP client will help you transfer files easily between your computer and the cloud.
 <ul>
@@ -344,7 +346,7 @@ page</a>
 </li></ul>
 
 
-<li><b>IGV</b>
+<li><b>IGV</b></li>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 looking at SAM and BAM files, SNPs, and variant calls.
 <ul>
@@ -355,7 +357,8 @@ looking at SAM and BAM files, SNPs, and variant calls.
 <li>Find the zip archive on your computer and expand it</li>
 <li>To run IGV, double-click on the IGV.bat file.</li>
 </ul>
-</li></ol></div>
+
+</ol></div>
 
 <h3 id="mac">Mac</h3>
 <p>
@@ -366,26 +369,24 @@ ask for help, or arrive early on the first day of the workshop to
 get help.
 </p><div class="row-fluid">
 <ol>
-<li><b>A spreadsheet program</b>
-<br>For this workshop you will need a spreadsheet program. Many people already have
+    <li><b>A spreadsheet program</b></li>
+    <br>For this workshop you will need a spreadsheet program. Many people already have
 Microsoft Excel installed, and if you do, you're set!
-<br>
-If you need a spreadsheet
+    <br>If you need a spreadsheet
 program, there are a few other options, like OpenOffice and LibreOffice. Install
 instructions for LibreOffice, which is free and open source, are here.
-       <ul>
-          <li><b>Download the Installer</b>
+      <ul>
+        <li><b>Download the Installer</b>
         <br>Install LibreOffice by going to the <a href="https://www.libreoffice.org/download/libreoffice-fresh/">installation page</a>. The version for Mac
 should automatically be selected. Click <b>Download Version 6.0.3 or later</b>. You
 will go to a page that asks about a donation, but you don't need to make one.
-Your download should begin automatically.
-          </li><li><b>Install LibreOffice</b>
-            <br>Once the installer is downloaded, double click on it and it should install.
-</li><li>To use LibreOffice, double click on the icon and it will open.
-</li></ul>
+Your download should begin automatically.</li>
+	 <li><b>Install LibreOffice</b>
+         <br>Once the installer is downloaded, double click on it and it should install.</li>
+	 <li>To use LibreOffice, double click on the icon and it will open.</li>
+      </ul>
 
-<p>
-</p></li><li><b>FTP Client (Filezilla)</b>
+   <li><b>FTP Client (Filezilla)</b></li>
 <br>An FTP client will help you transfer files easily between your computer and the cloud.
 <ul>
 <li>Go to the Filezila <a href="https://filezilla-project.org/download.php?show_all=1">download
@@ -395,9 +396,9 @@ page</a>
 </li><li>Follow any installation instructions, if any
 </li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
 </li></ul>
-</li>
 
-<p><li><b>IGV</b></li>
+
+<li><b>IGV</b></li>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 	looking at SAM and BAM files, SNPs, and variant calls.</p>
 <ul>
@@ -409,7 +410,10 @@ page</a>
 <li>To run IGV, double-click on the IGV.bat file.</li>
 </ul>
 
-</li></p></ol>
+</ol>
+</div>
+
+
 <h3 id="linux">Linux</h3>
 <p>
 Please go through all the installation steps below and make sure that
@@ -417,9 +421,10 @@ you not only installed them, but start them up to make sure they're working.
 If you have any problems, don't hesitate to email the instructors to
 ask for help, or arrive early on the first day of the workshop to
 get help.
-</p><div class="row-fluid">
+</p>
+<div class="row-fluid">
 <ol>
-<li><b>A spreadsheet program</b>
+<li><b>A spreadsheet program</b></li>
 <br>For this workshop you will need a spreadsheet program. Many people already have
 Microsoft Excel installed, and if you do, you're set!
 <br>
@@ -435,7 +440,9 @@ Your download should begin automatically.
           </li><li><b>Install LibreOffice</b>
             <br>Once the installer is downloaded, double click on it and it should install.
 </li><li>To use LibreOffice, double click on the icon and it will open.
-</li></ul>
+</li>
+</ul>
+
 </li><li><b>FTP Client (Filezilla)</b>
 <br>An FTP client will help you transfer files easily between your computer and the cloud.
 <ul>
