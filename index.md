@@ -342,18 +342,8 @@ page</a>
 </li><li>Follow any installation instructions, if any
 </li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
 </li></ul>
-<li><b>R</b></li>
-<br>In the workshop, we will use RStudio. RStudio is a nice interface to the
-programming language R. To use RStudio, you need to install both R and RStudio.
-<ul>
-<li>      Download R from
-      <a href="http://cran.r-project.org/bin/windows/base/release.htm">here</a>
-</li><li>Run the .exe file that was just downloaded
-</li><li>Go to the <a href="http://www.rstudio.com/ide/download/desktop">RStudio Download page</a>
-</li><li>Under <i>Installers</i> select <b>RStudio 1.1.447 or later - Windows XP/Vista/7/8</b>
-</li><li>Double click the file to install it
-</li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
-</li></ul>
+
+
 <li><b>IGV</b>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 looking at SAM and BAM files, SNPs, and variant calls.
@@ -406,20 +396,7 @@ page</a>
 </li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
 </li></ul>
 </li>
-<p><li><b>R</b>
-<br>In the workshop, we will use RStudio. RStudio is a nice interface to the
-programming language R. To use RStudio, you need to install both R and RStudio.
-<ul>
-<li>Go to <a href="http://cran.r-project.org/">CRAN</a> and click on <i>Download
-R for (Mac) OS X</i>
-</li><li>Select the .pkg file for the version of OS X that you have and the file
-will download.
-</li><li>Double click on the file that was downloaded and R will install
-</li><li>Go to the <a href="http://www.rstudio.com/ide/download/desktop">RStudio Download page</a>
-</li><li>Under <i>Installers</i> select <b>RStudio 1.1.447 or later - Mac OS X 10.6+ (64-bit)</b> to download it.
-</li><li>Once it's downloaded, double click the file to install it
-</li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
-</li></ul>
+
 <p><li><b>IGV</b></li>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 	looking at SAM and BAM files, SNPs, and variant calls.</p>
@@ -471,24 +448,6 @@ page</a>
 </li></ul>
 
 
-
-<p><li><b>R</b>
-<br>In the workshop, we will use RStudio. RStudio is a nice interface to the
-programming language R. To use RStudio, you need to install both R and RStudio.
-<ul>
-<li>R is available through most Linux package managers.
-You can download the binary files for your distribution
-        from <a href="http://cran.r-project.org/index.html">CRAN</a>. Or
-        you can use your package manager (e.g. for Debian/Ubuntu
-        run <code>sudo apt-get install r-base</code> and for Fedora run
-        <code>sudo yum install R</code>).
-</li><li>To install RStudi, go to the <a href="http://www.rstudio.com/ide/download/desktop">RStudio Download page</a>
-</li><li>Under <i>Installers</i> select the version for your distribution.
-</li><li>Once it's downloaded, double click the file to install it
-</li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
-</li></ul>
-<p>
-</p></li>
 <p><li><b>IGV</b>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 looking at SAM and BAM files, SNPs, and variant calls.
