@@ -443,7 +443,7 @@ Your download should begin automatically.
 </li>
 </ul>
 
-</li><li><b>FTP Client (Filezilla)</b>
+<li><b>FTP Client (Filezilla)</b></li>
 <br>An FTP client will help you transfer files easily between your computer and the cloud.
 <ul>
 <li>Go to the Filezila <a href="https://filezilla-project.org/download.php?show_all=1">download
@@ -455,13 +455,19 @@ page</a>
 </li></ul>
 
 
-<p><li><b>IGV</b>
+<li><b>IGV</b></li>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 looking at SAM and BAM files, SNPs, and variant calls.
 <ul>
 <li>To download IGV, please visit
 <a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
- and log in. Please register if you do not already have a login.
-<li>Click on the large button for the Download Binary Distribution
-<li>Find the zip archive on your computer and expand it
-<li>To run IGV, double-click on the IGV.bat file.
+ and log in. Please register if you do not already have a login.</li>
+<li>Click on the large button for the Download Binary Distribution.</li>
+<li>Find the zip archive on your computer and expand it.</li>
+<li>To run IGV, double-click on the IGV.bat file.</li>
+</ul>
+
+
+</ol>
+</div>
+
